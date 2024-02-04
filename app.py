@@ -17,3 +17,5 @@ total_hours = time_difference.total_seconds() / 3600
 
 # Display the result
 print(f"The total hours between {date1_str} and {date2_str} is {total_hours} hours.")
+
+print("Thank you for using product")
